@@ -14,7 +14,7 @@
 # specific language governing permissions and limitations
 # under the License.
 
-FROM python:slim
+FROM python:alpine
 
 WORKDIR /python-docker
 
